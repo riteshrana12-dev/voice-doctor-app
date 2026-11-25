@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@keyframes rowFlash {
+  0% {
+    background-color: rgb(204 251 241);
+  }
+  100% {
+    background-color: transparent;
+  }
+}
+
+.animate-row-flash {
+  animation: rowFlash 2.4s ease-out;
+}
+
+.scrollbar-hidden {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.scrollbar-hidden::-webkit-scrollbar {
+  display: none;
+}

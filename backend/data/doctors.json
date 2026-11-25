@@ -1,0 +1,55 @@
+{
+  "doctors": [
+    {
+      "id": "1",
+      "name": "Dr. Sarah Chen",
+      "speciality": "General Physician",
+      "slots": {
+        "2026-12-15": [
+          "09:00 am",
+          "10:00 am",
+          "11:00 am",
+          "14:00 pm",
+          "15:00 pm"
+        ],
+        "2026-12-16": ["09:00 am", "10:00 am", "14:00 pm", "15:30 pm"]
+      }
+    },
+    {
+      "id": "2",
+      "name": "Dr. Miguel Rodriguez",
+      "speciality": "Cardiologist",
+      "slots": {
+        "2026-12-15": ["08:00 am", "11:00 am", "13:00 pm", "15:30 pm"],
+        "2026-12-16": ["08:00 am", "11:00 am", "14:00 pm"]
+      }
+    },
+    {
+      "id": "3",
+      "name": "Dr. Aisha Johnson",
+      "speciality": "Dermatologist",
+      "slots": {
+        "2026-12-15": ["10:00 am", "13:00 pm", "15:00 pm"],
+        "2026-12-16": ["09:00 am", "11:00 am", "15:00 pm"]
+      }
+    },
+    {
+      "id": "4",
+      "name": "Dr. Robert Kim",
+      "speciality": "Pediatrician",
+      "slots": {
+        "2026-12-15": ["09:00 am", "11:00 am", "14:00 pm"],
+        "2026-12-16": ["10:00 am", "14:00 pm", "16:00 pm"]
+      }
+    },
+    {
+      "id": "5",
+      "name": "Dr. Elena Russo",
+      "speciality": "Neurologist",
+      "slots": {
+        "2026-12-15": ["09:30 am", "11:30 am", "14:30 pm"],
+        "2026-12-16": ["09:30 am", "14:30 pm"]
+      }
+    }
+  ]
+}
